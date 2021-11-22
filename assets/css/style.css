@@ -558,6 +558,21 @@ section {
   background-size: cover;
   min-height: 500px;
 }
+.about .course-box {
+  background: url("../img/portfolio/lab-course.JPG") center center no-repeat;
+  background-size: cover;
+  min-height: 500px;
+}
+.about .faculty-box {
+  background: url("../img/portfolio/faculty-mentors.JPG") center center no-repeat;
+  background-size: cover;
+  min-height: 500px;
+}
+.about .community-box {
+  background: url("../img/portfolio/retreat-2.JPG") center center no-repeat;
+  background-size: cover;
+  min-height: 500px;
+}
 .about .play-btn {
   width: 94px;
   height: 94px;
